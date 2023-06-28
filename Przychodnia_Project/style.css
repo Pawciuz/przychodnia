@@ -1,0 +1,15 @@
+a		{color:#017bf5; text-decoration:underline; }
+a:hover	{color:#71b8fe; text-decoration:none;}
+input.newbutton {
+    display:block;
+    width:200px;/*match image width;*/
+    height:70px;/* match image height */
+    line-height:50px;/* match height*/
+    background:url(przycisk_potwierdz.png) no-repeat 0 0;/* path to your image */
+    color:#000;
+    border:none;
+    padding:0;
+    text-transform:capitalize;/* ie6 fix to hide text*/
+    text-indent:-999em;/* hide text - remove this if you want the text in the value attribute to show.*/
+    clear:both;/* ie6 fix*/
+}

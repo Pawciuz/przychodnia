@@ -1,0 +1,106 @@
+*{
+	margin:0 0 0 0;
+}
+#baner{
+	background-color:#3A7AD9;
+	text-align:center;
+	height:50px;
+	font-size:40px;
+	font-weight: bold;
+}
+#menu{
+	clear:both;
+	width:101%;
+}
+#right{
+	text-align:center;
+	width:100%;
+	float:left;
+	clear:both;
+    padding: 5px;
+    filter: alpha(opacity=50);
+	padding:0 0 100px 0;
+}
+#stopka{
+	background-color:#017bf5;
+	text-align:right;
+	clear:both;
+	color:white;
+	width:101%;
+}
+#aktualności{
+	width:200px;
+	height:300px;
+	background-color:#017bf5;
+	margin:5% 50px 5% 15%;
+	padding:5px 5px 5px 5px;
+}
+#lekarze{
+	font-size:30px;
+	color: #017bf5;
+}
+#wizyta{
+	font-size:40px;
+	color: #017bf5;
+	margin:0 0 550px 0;
+}
+#kontakt{
+	font-size:20px;
+	color: #017bf5;
+}
+#profil1{
+	width:550px;
+	height:500px;
+	background-color:#017bf5;
+	margin:5% 15% 5% 15%;
+}
+#profil2{
+	width:1100px;
+	height:500px;
+	background-color:#017bf5;
+	margin:5% 50px 5% 15%
+}
+li{
+	float: left;
+	width:20%;
+}
+li a {
+	display: block;
+	color: white;
+	text-align:center;
+	padding: 14px 16px;
+	text-decoration:none;
+}
+li a:hover{
+		background-color: #69bdd2;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color:#017bf5;
+}
+select{
+	font-size:40px;
+}
+input{
+	font-size:40px;
+}
+table{
+	font-size:25px;
+}
+#akt{
+	width:190px;
+}
+#zdjecie{
+	margin:15px 50px 0px 15%;
+}
+#onas{
+	width:590px;
+	height:300px;
+	background-color:#013bf8;
+	margin:0px 50px 5% 15%;
+	border-radius: 30px;
+	padding:5px 5px 5px 5px;
+}

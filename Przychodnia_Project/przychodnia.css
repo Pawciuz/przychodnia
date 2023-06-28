@@ -1,0 +1,30 @@
+*{
+text-align:center;
+font-size:18;
+color:Black;
+}
+body{
+margin: 0; 
+padding: 0; 
+width: 100%; 
+height: 100%; 
+overflow: hidden;
+}
+
+#fieldset1{
+width: 90%;
+border: 0;
+}
+label {
+display: block;
+margin: 10px 550px;
+overflow: hidden;
+}
+#input1 {
+float: right;
+width: 150px;
+margin: 0 0 0 5px;
+}
+#kolorinputa{
+color:black;
+}
